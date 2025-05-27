@@ -1,0 +1,6 @@
+Query	Reference	%ANI	Num_Fragments_Mapped	Total_Query_Fragments	%Query_Aligned	Basepairs_Query_Aligned
+../contig_fil/SRR27160580_filtered_assembly.fna	reference.fna	99.9878	1360	1360	100	4080000
+Query	Reference	%ANI	Num_Fragments_Mapped	Total_Query_Fragments	%Query_Aligned	Basepairs_Query_Aligned
+../contig_fil/SRR27160579_filtered_assembly.fna	reference.fna	99.991	1281	1281	100	3843000
+Query	Reference	%ANI	Num_Fragments_Mapped	Total_Query_Fragments	%Query_Aligned	Basepairs_Query_Aligned
+../contig_fil/SRR27160578_filtered_assembly.fna	reference.fna	99.9974	1261	1262	99.9208	3783000
