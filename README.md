@@ -10,7 +10,7 @@ This project focuses on the genomic analysis of *Bordetella parapertussis* isola
 - Perform read trimming and de novo assembly.
 - Compare assemblies to the species type strain using **FastANI**.
 - Genotype using **MLST**.
-- Assess genome quality for one sample using **CheckM**, **CheckM2**, or **BUSCO**.
+- Assess genome quality for one sample using **CheckM**
 
 ---
 
